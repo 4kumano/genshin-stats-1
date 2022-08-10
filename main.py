@@ -7,6 +7,7 @@ import pathlib
 import genshin
 import jinja2
 import requests
+import io
 import time
 from bs4 import BeautifulSoup
 
