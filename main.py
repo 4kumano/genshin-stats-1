@@ -9,6 +9,7 @@ import jinja2
 import requests
 import io
 import time
+import pathlib
 from bs4 import BeautifulSoup
 
 logger = logging.getLogger()
@@ -45,6 +46,7 @@ async def main():
     active_codes = [code.text.strip() for code in soup.find(
         "div", {"class": "entry-content"}).find("ul").findAll("strong")]
     
+    root = pathlib.Path(__file__).parent.resolve()
     codes_file = root / "codes.txt"
     used_codes = codes_file.open().read().split("\n")
     new_codes = list(filter(lambda x: x not in used_codes, active_codes))
