@@ -43,6 +43,11 @@ async def main():
 
     active_codes = [code.text.strip() for code in soup.find(
         "div", {"class": "entry-content"}).find("ul").findAll("strong")]
+    
+    codes_file = root / "codes.txt"
+    used_codes = codes_file.open().read().split("\n")
+    new_codes = list(filter(lambda x: x not in used_codes, active_codes))
+
 
     # Redeem codes
     print("[Code redeem] ", end="")
@@ -66,6 +71,12 @@ async def main():
               " new codes: " + ", ".join(redeemed_codes))
     else:
         print("No new codes found")
+        
+    #%% Add new codes to used codes
+
+    used_codes.extend(new_codes)
+    io.open(codes_file, "w", newline="\n").write("\n".join(used_codes))
+
      #=========================================================================
 
     template = jinja2.Template(args.template.read_text())
