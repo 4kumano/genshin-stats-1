@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -247,17 +247,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2248 (rate -22)</td>
+    <td>2375 (rate -18)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1065700 (rate -32)</td>
+    <td>1127036 (rate -28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1240 (56%)<br />Mail: 520 (23%)<br />Daily Activity: 360 (16%)<br />Adventure:
-      128 (5%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 1280 (54%)<br />Mail: 520 (22%)<br />Daily Activity: 360 (15%)<br />Adventure:
+      215 (9%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -1401,7 +1401,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1913,7 +1913,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Electro</td>
+          <td>Geo</td>
         </tr>
         <tr>
           <td>Level</td>
