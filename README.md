@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1437</td>
+    <td>1447</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1153</td>
+    <td>1164</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -247,17 +247,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2375 (rate -18)</td>
+    <td>2465 (rate -14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1127036 (rate -28)</td>
+    <td>1192338 (rate -24)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (54%)<br />Mail: 520 (22%)<br />Daily Activity: 360 (15%)<br />Adventure:
-      215 (9%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 1280 (52%)<br />Mail: 550 (23%)<br />Daily Activity: 420 (17%)<br />Adventure:
+      215 (8%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -1702,7 +1702,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
