@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -247,16 +247,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2465 (rate -14)</td>
+    <td>2585 (rate -10)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1192338 (rate -24)</td>
+    <td>1281378 (rate -19)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (52%)<br />Mail: 550 (23%)<br />Daily Activity: 420 (17%)<br />Adventure:
+      Events: 1280 (50%)<br />Mail: 550 (22%)<br />Daily Activity: 540 (20%)<br />Adventure:
       215 (8%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
