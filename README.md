@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -247,17 +247,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3655 (rate 26)</td>
+    <td>4280 (rate 47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2234288 (rate 41)</td>
+    <td>2618554 (rate 65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2200 (61%)<br />Mail: 640 (18%)<br />Daily Activity: 600 (16%)<br />Adventure:
-      215 (5%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 2510 (59%)<br />Daily Activity: 720 (17%)<br />Mail: 640 (15%)<br />Adventure:
+      410 (9%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -2445,7 +2445,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2456,7 +2456,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>Ein Immernachtstraum</td>
         </tr>
       </table>
     </td>
