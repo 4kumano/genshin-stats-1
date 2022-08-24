@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>460</td>
+    <td>461</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>606</td>
+    <td>608</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,19 +44,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1448</td>
+    <td>1463</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1164</td>
+    <td>1172</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>305</td>
+    <td>310</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>115</td>
+    <td>119</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -78,6 +78,7 @@
     <th>Dragonspine</th>
     <th>Liyue</th>
     <th>Mondstadt</th>
+    <th>Sumeru</th>
   </tr>
   <tr>
     <td>
@@ -132,6 +133,14 @@
       <p align="center">
         <img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png"
+          width="180"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png"
           width="180"
         />
       </p>
@@ -222,6 +231,18 @@
         </tr>
       </table>
     </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>0.0%</td>
+        </tr>
+        <tr>
+          <td>Reputation</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 <h2>Teapot</h2>
@@ -247,18 +268,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4280 (rate 47)</td>
+    <td>4930 (rate 70)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2618554 (rate 65)</td>
+    <td>2944715 (rate 86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2510 (59%)<br />Daily Activity: 720 (17%)<br />Mail: 640 (15%)<br />Adventure:
-      410 (9%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 2660 (54%)<br />Adventure: 850 (18%)<br />Daily Activity: 720
+      (14%)<br />Mail: 700 (14%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
