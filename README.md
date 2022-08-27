@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>10 x Primogem</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -37,6 +37,10 @@
   <tr>
     <td>Geoculi</td>
     <td>131</td>
+  </tr>
+  <tr>
+    <td>dendroculi</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -3096,7 +3100,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kanako.png"
         />
       </p>
     </td>
@@ -3113,11 +3117,11 @@
       <table>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Element</td>
-          <td>Dendro</td>
+          <td>Anemo</td>
         </tr>
         <tr>
           <td>Level</td>
