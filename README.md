@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5640 (rate 94)</td>
+    <td>5700 (rate 96)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3002898 (rate 89)</td>
+    <td>3050275 (rate 92)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2660 (48%)<br />Mail: 1350 (24%)<br />Adventure: 850 (15%)<br />Daily
-      Activity: 780 (13%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
+      Events: 2660 (47%)<br />Mail: 1350 (24%)<br />Adventure: 850 (15%)<br />Daily
+      Activity: 840 (14%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -474,7 +474,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -625,7 +625,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3100,7 +3100,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kanako.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
         />
       </p>
     </td>
@@ -3117,11 +3117,11 @@
       <table>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Element</td>
-          <td>Anemo</td>
+          <td>Dendro</td>
         </tr>
         <tr>
           <td>Level</td>
