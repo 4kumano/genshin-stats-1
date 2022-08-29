@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>609</td>
+    <td>611</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -405,7 +405,9 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Lavawalker<br /></td>
+          <td>
+            4 x Crimson Witch of Flames<br />1 x Bloodstained Chivalry<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1359,9 +1361,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            4 x Crimson Witch of Flames<br />1 x Bloodstained Chivalry<br />
-          </td>
+          <td>5 x Lavawalker<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
