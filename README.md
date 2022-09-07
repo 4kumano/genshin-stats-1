@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>463</td>
+    <td>466</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>617</td>
+    <td>618</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>206</td>
+    <td>224</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>317</td>
+    <td>318</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>35</td>
+    <td>36</td>
   </tr>
 </table>
 
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>280</td>
+    <td>317</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -272,18 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>661 (rate -88)</td>
+    <td>2188 (rate -62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>492665 (rate -84)</td>
+    <td>1608393 (rate -48)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 240 (37%)<br />Events: 180 (28%)<br />Mail: 110 (16%)<br />Adventure:
-      93 (14%)<br />Quests: 30 (4%)<br />Other: 8 (1%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Events: 700 (32%)<br />Other: 560 (26%)<br />Adventure: 308 (15%)<br />Daily
+      Activity: 300 (13%)<br />Quests: 210 (9%)<br />Mail: 110 (5%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -627,7 +627,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1804,7 +1804,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3133,7 +3133,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
