@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>623</td>
+    <td>625</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>36</td>
+    <td>37</td>
   </tr>
 </table>
 
@@ -272,18 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3208 (rate -44)</td>
+    <td>3573 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2464724 (rate -21)</td>
+    <td>2583949 (rate -17)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1240 (39%)<br />Daily Activity: 660 (21%)<br />Other: 560 (18%)<br />Adventure:
-      408 (12%)<br />Quests: 210 (6%)<br />Mail: 130 (4%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Events: 1240 (35%)<br />Daily Activity: 720 (21%)<br />Other: 560 (16%)<br />Mail:
+      430 (12%)<br />Adventure: 413 (11%)<br />Quests: 210 (5%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
