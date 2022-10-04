@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>635</td>
+    <td>636</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1010 (rate -82)</td>
+    <td>1151 (rate -80)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>142287 (rate -95)</td>
+    <td>184498 (rate -94)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 950 (95%)<br />Daily Activity: 60 (5%)<br />Events: 0 (0%)<br />Adventure:
-      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Mail: 1030 (90%)<br />Daily Activity: 120 (10%)<br />Other: 1 (0%)<br />Events:
+      0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -1111,7 +1112,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
         />
       </p>
     </td>
@@ -1153,19 +1154,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Thrilling Tales of Dragon Slayers</td>
+          <td>Eye of Perception</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
