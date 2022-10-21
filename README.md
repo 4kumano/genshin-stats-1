@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>480</td>
+    <td>481</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>646</td>
+    <td>647</td>
   </tr>
   <tr>
     <td>Characters</td>
