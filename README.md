@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>647</td>
+    <td>648</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,16 +272,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3573 (rate -39)</td>
+    <td>3633 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3088662 (rate -5)</td>
+    <td>3131506 (rate -4)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1420 (40%)<br />Mail: 1130 (32%)<br />Daily Activity: 780 (22%)<br />Adventure:
+      Events: 1420 (40%)<br />Mail: 1130 (31%)<br />Daily Activity: 840 (23%)<br />Adventure:
       120 (3%)<br />Quests: 120 (3%)<br />Other: 3 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
