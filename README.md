@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>40</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,19 +48,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1534</td>
+    <td>1550</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1219</td>
+    <td>1228</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>321</td>
+    <td>323</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>123</td>
+    <td>124</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>11.0%</td>
+          <td>14.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1320 (rate -76)</td>
+    <td>1400 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>386149 (rate -91)</td>
+    <td>430120 (rate -90)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (52%)<br />Daily Activity: 360 (27%)<br />Adventure: 238
-      (18%)<br />Events: 40 (3%)<br />Other: 2 (0%)<br />Quests: 0 (0%)<br />Spiral
+      Mail: 700 (51%)<br />Daily Activity: 420 (30%)<br />Adventure: 238
+      (17%)<br />Events: 40 (2%)<br />Other: 2 (0%)<br />Quests: 0 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
