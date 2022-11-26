@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>675</td>
+    <td>677</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>40</td>
+    <td>41</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>333</td>
+    <td>335</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -272,18 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4260 (rate -24)</td>
+    <td>5670 (rate 0)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2902546 (rate -32)</td>
+    <td>4408902 (rate 2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1140 (27%)<br />Quests: 1120 (27%)<br />Adventure: 765
-      (18%)<br />Mail: 720 (17%)<br />Events: 500 (11%)<br />Other: 15 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Events: 1490 (27%)<br />Daily Activity: 1260 (23%)<br />Quests: 1120
+      (20%)<br />Mail: 1020 (17%)<br />Adventure: 765 (13%)<br />Other: 15
+      (0%)<br />Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
