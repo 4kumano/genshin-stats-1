@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>511</td>
+    <td>512</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>682</td>
+    <td>684</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,16 +272,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2060 (rate -64)</td>
+    <td>2640 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>442140 (rate -90)</td>
+    <td>599297 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1420 (69%)<br />Events: 500 (25%)<br />Daily Activity: 140 (6%)<br />Adventure:
+      Mail: 1900 (72%)<br />Events: 500 (19%)<br />Daily Activity: 240 (9%)<br />Adventure:
       0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -1111,7 +1111,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
         />
       </p>
     </td>
@@ -1153,19 +1153,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Eye of Perception</td>
+          <td>Thrilling Tales of Dragon Slayers</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1509,7 +1509,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Gilded Dreams<br /></td>
+          <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2174,7 +2174,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
