@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -272,16 +272,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2640 (rate -54)</td>
+    <td>2900 (rate -50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>599297 (rate -86)</td>
+    <td>639953 (rate -85)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1900 (72%)<br />Events: 500 (19%)<br />Daily Activity: 240 (9%)<br />Adventure:
+      Mail: 2100 (73%)<br />Events: 500 (17%)<br />Daily Activity: 300 (10%)<br />Adventure:
       0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
