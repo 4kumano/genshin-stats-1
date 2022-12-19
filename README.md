@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>685</td>
+    <td>686</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>77</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1587</td>
+    <td>1592</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1246</td>
+    <td>1250</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>326</td>
+    <td>327</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>20.0%</td>
+          <td>21.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3600 (rate -38)</td>
+    <td>3795 (rate -34)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>996059 (rate -77)</td>
+    <td>1215790 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2320 (65%)<br />Events: 920 (25%)<br />Daily Activity: 360 (10%)<br />Adventure:
-      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Mail: 2320 (62%)<br />Events: 920 (25%)<br />Daily Activity: 420 (11%)<br />Quests:
+      60 (1%)<br />Adventure: 45 (1%)<br />Other: 30 (0%)<br />Spiral Abyss: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -1137,7 +1138,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1501,7 +1502,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
