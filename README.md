@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1711 (rate -55)</td>
+    <td>1864 (rate -51)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1151647 (rate -11)</td>
+    <td>1276810 (rate -1)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (52%)<br />Daily Activity: 360 (22%)<br />Mail: 320 (18%)<br />Adventure:
-      150 (8%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Events: 880 (48%)<br />Daily Activity: 420 (23%)<br />Mail: 340 (18%)<br />Adventure:
+      183 (9%)<br />Quests: 40 (2%)<br />Other: 1 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1258,7 +1258,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bakufu.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png"
         />
       </p>
     </td>
@@ -1300,19 +1300,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Amenoma Kageuchi</td>
+          <td>Haran Geppaku Futsu</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
