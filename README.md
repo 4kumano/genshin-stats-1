@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>512</td>
+    <td>514</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>693</td>
+    <td>694</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>238</td>
+    <td>239</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>78</td>
+    <td>86</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1592</td>
+    <td>1596</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1250</td>
+    <td>1255</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>21.0%</td>
+          <td>22.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
