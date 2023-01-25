@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1864 (rate -51)</td>
+    <td>2375 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1276810 (rate -1)</td>
+    <td>1419712 (rate 9)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (48%)<br />Daily Activity: 420 (23%)<br />Mail: 340 (18%)<br />Adventure:
-      183 (9%)<br />Quests: 40 (2%)<br />Other: 1 (0%)<br />Spiral Abyss: 0
+      Events: 880 (38%)<br />Mail: 780 (33%)<br />Daily Activity: 480 (20%)<br />Adventure:
+      193 (8%)<br />Quests: 40 (1%)<br />Other: 2 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1215,7 +1215,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Crimson Witch of Flames<br /></td>
+          <td>5 x Crimson Witch of Flames<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2772,7 +2772,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>1 x Thundering Fury<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
