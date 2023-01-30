@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>698</td>
+    <td>699</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,16 +272,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2495 (rate -35)</td>
+    <td>2555 (rate -33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1685554 (rate 30)</td>
+    <td>1776095 (rate 37)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (36%)<br />Mail: 780 (32%)<br />Daily Activity: 600 (24%)<br />Adventure:
+      Events: 880 (35%)<br />Mail: 780 (31%)<br />Daily Activity: 660 (26%)<br />Adventure:
       193 (7%)<br />Quests: 40 (1%)<br />Other: 2 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
@@ -1308,7 +1308,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1530,7 +1530,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
