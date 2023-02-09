@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>707</td>
+    <td>708</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1737 (rate -33)</td>
+    <td>1877 (rate -28)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2298047 (rate 22)</td>
+    <td>2541017 (rate 35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 990 (57%)<br />Daily Activity: 480 (28%)<br />Mail: 140 (9%)<br />Quests:
-      60 (3%)<br />Other: 60 (3%)<br />Adventure: 7 (0%)<br />Spiral Abyss: 0
+      Events: 990 (53%)<br />Daily Activity: 600 (32%)<br />Mail: 140 (8%)<br />Other:
+      80 (4%)<br />Quests: 60 (3%)<br />Adventure: 7 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1071,7 +1071,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>A Sobriquet Under Shade</td>
         </tr>
       </table>
     </td>
@@ -1243,6 +1243,79 @@
     </td>
   </tr>
 </table>
+<h3>Nahida</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Mappa Mare</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Kamisato Ayaka</h3>
 <table>
   <tr>
@@ -1389,79 +1462,6 @@
     </td>
   </tr>
 </table>
-<h3>Nahida</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Mappa Mare</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Xingqiu</h3>
 <table>
   <tr>
@@ -1551,7 +1551,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
         />
       </p>
     </td>
@@ -1593,19 +1593,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hunter's Bow</td>
+          <td>Favonius Warbow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
