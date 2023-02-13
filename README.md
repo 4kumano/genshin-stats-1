@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>710</td>
+    <td>711</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1598</td>
+    <td>1599</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2339 (rate -10)</td>
+    <td>2439 (rate -6)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2895492 (rate 54)</td>
+    <td>3167001 (rate 68)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1390 (60%)<br />Daily Activity: 660 (29%)<br />Mail: 140 (6%)<br />Other:
-      82 (3%)<br />Quests: 60 (2%)<br />Adventure: 7 (0%)<br />Spiral Abyss: 0
+      Events: 1390 (57%)<br />Daily Activity: 720 (30%)<br />Mail: 160 (7%)<br />Other:
+      102 (4%)<br />Quests: 60 (2%)<br />Adventure: 7 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1581,7 +1581,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Heart of Depth<br />1 x Emblem of Severed Fate<br /></td>
+          <td>
+            2 x Emblem of Severed Fate<br />2 x Heart of Depth<br />1 x Noblesse
+            Oblige<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1601,7 +1604,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
