@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>516</td>
+    <td>518</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>712</td>
+    <td>713</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2499 (rate -4)</td>
+    <td>2994 (rate 14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3502086 (rate 86)</td>
+    <td>3856080 (rate 105)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1390 (56%)<br />Daily Activity: 780 (32%)<br />Mail: 160 (6%)<br />Other:
-      102 (4%)<br />Quests: 60 (2%)<br />Adventure: 7 (0%)<br />Spiral Abyss: 0
+      Events: 1750 (59%)<br />Daily Activity: 840 (29%)<br />Mail: 160 (5%)<br />Other:
+      142 (4%)<br />Quests: 60 (2%)<br />Adventure: 42 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -599,7 +599,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
         />
       </p>
     </td>
@@ -641,19 +641,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Elegy for the End</td>
+          <td>Favonius Warbow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -1551,7 +1551,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
         />
       </p>
     </td>
@@ -1573,7 +1573,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1581,10 +1581,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Emblem of Severed Fate<br />2 x Heart of Depth<br />1 x Noblesse
-            Oblige<br />
-          </td>
+          <td>4 x Emblem of Severed Fate<br />1 x Noblesse Oblige<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1596,19 +1593,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Favonius Warbow</td>
+          <td>Elegy for the End</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
