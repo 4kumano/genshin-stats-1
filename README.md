@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>724</td>
+    <td>725</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,6 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -303,17 +313,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (9)<br />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2927 (rate -28)</td>
+    <td>2937 (rate -28)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3027439 (rate -36)</td>
+    <td>3039087 (rate -36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1860 (64%)<br />Mail: 420 (15%)<br />Spiral Abyss: 400 (13%)<br />Daily
-      Activity: 240 (8%)<br />Adventure: 5 (0%)<br />Other: 2 (0%)<br />Quests:
+      Activity: 250 (8%)<br />Adventure: 5 (0%)<br />Other: 2 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
