@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>725</td>
+    <td>726</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1257</td>
+    <td>1258</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Nahida (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (9)<br /><img
+      Bennett (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br />
+      Kamisato Ayaka (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        ,
+        height="18"
+      />
+      Diona (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2937 (rate -28)</td>
+    <td>3142 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3039087 (rate -36)</td>
+    <td>3204337 (rate -32)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1860 (64%)<br />Mail: 420 (15%)<br />Spiral Abyss: 400 (13%)<br />Daily
-      Activity: 250 (8%)<br />Adventure: 5 (0%)<br />Other: 2 (0%)<br />Quests:
+      Events: 2000 (64%)<br />Mail: 420 (14%)<br />Spiral Abyss: 400 (13%)<br />Daily
+      Activity: 310 (9%)<br />Adventure: 10 (0%)<br />Other: 2 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
