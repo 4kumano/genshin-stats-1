@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>726</td>
+    <td>727</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -207,7 +207,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
       </table>
     </td>
@@ -294,21 +294,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Bennett (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
+      Kaedehara Kazuha (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3142 (rate -23)</td>
+    <td>3202 (rate -21)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3204337 (rate -32)</td>
+    <td>3531922 (rate -25)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2000 (64%)<br />Mail: 420 (14%)<br />Spiral Abyss: 400 (13%)<br />Daily
-      Activity: 310 (9%)<br />Adventure: 10 (0%)<br />Other: 2 (0%)<br />Quests:
+      Events: 2000 (63%)<br />Mail: 420 (14%)<br />Spiral Abyss: 400 (12%)<br />Daily
+      Activity: 370 (11%)<br />Adventure: 10 (0%)<br />Other: 2 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -1677,7 +1677,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
