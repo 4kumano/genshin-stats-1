@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -294,6 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -303,17 +313,7 @@
         ,
         height="18"
       />
-      Nahida (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br />
+      Nahida (9)<br />
     </td>
   </tr>
   <tr>
