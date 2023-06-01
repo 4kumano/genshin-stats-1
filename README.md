@@ -272,11 +272,11 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>0 (rate 0)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>0 (rate 0)</td>
   </tr>
   <tr>
     <td>Categories</td>
